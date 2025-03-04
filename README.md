@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi, I’m Nitika! 👋
+I’m a fresh software developer eager to craft impactful solutions with code. I’m passionate about web development, databases, and writing clean, efficient programs.  
 
-<!--
-**Nitika0914/Nitika0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Programming:** Java, Python, C++, JavaScript  
+- 🌐 **Web Development:** React.js, Node.js, Express.js, HTML, CSS  
+- 🗄️ **Databases:** MongoDB, SQL (Relational Database Basics)  
+- 🧠 **Concepts:** Data Structures, Algorithms, REST APIs, OOP, Agile Methodologies  
+- 🛠️ **Tools:** Git, LeetCode, HackerRank  
+- 🎓 **Education:** B.Tech in Computer Science, Chitkara University  
+- 📫 **Connect with me:** (https://www.linkedin.com/in/nitika-bansal0904/)  
+- ⚡ **Fun fact:** I once debugged a project while binge-watching sci-fi movies!
